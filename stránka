@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+
+<div>
+
+    <h3>Kanadská příroda</h3>
+    <img src="odkaz" alt="Kanadská příroda">
+
+    <p>Užíjte si dobrodružnou dovolenou v Kanadě. Objevte přírodní krásy v okolí Calgray.</p>
+
+    <p>
+
+        <strong>1 osoba 59 900,- Kč</strong>
+    </p>
+
+
+    <a href="odkaz">Objednat dovolenou</a>
+
+
+
+</div>
+
+</body>
+</html>
